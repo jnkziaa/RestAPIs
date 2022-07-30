@@ -1,0 +1,11 @@
+resource not found = 404
+server exception = 500
+validation error = 400
+
+success = 200
+created = 201
+no content = 204
+unauthorized = 401
+bad requestion = 400
+resource not found = 404
+server error = 500
